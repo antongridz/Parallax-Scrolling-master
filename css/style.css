@@ -34,11 +34,13 @@ article h2 { font-family: 'Arial'; font-size: 60px; margin: 25px 0; line-height:
 #second article a { color: #ff0;} */
 
 /* Photograph */
+#third { padding: 50px 0;}
 #third article { width: 300px; margin-left: 40%; text-shadow: 0 -1px 0 rgba(0,0,0,0.5); line-height: 1.5em; color: #fff; position: absolute; top: 0; }
 /* #third .photograph { background: url(../images/photo.png) transparent 40% 100px no-repeat fixed; min-height: 1000px; padding: 0; margin: 0; width: 100%; max-width: 1920px; position: relative; margin: 0 auto; } */
 #third article p { margin-bottom: 25px; }
 
 /* HTML5 Video */
+#fourth { padding: 50px 0;}
 #fourth article { width: 300px; margin-left: 40%; text-shadow: 0 -1px 0 rgba(0,0,0,0.5); line-height: 1.5em; color: #fff; position: absolute; top: 0; }
 #fourth article p { margin-bottom: 25px; }
 /* #fourth video { position: fixed; left: 50%; box-shadow: 0 0 25px rgba(0,0,0,0.7); z-index: 1;} */
