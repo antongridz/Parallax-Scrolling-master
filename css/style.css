@@ -39,9 +39,9 @@ article h2 { font-family: 'Arial'; font-size: 60px; margin: 25px 0; line-height:
 #third article p { width: 300px; margin-bottom: 25px; }
 
 /* HTML5 Video */
-/* #fourth article {  margin-left: 10%; text-shadow: 0 -1px 0 rgba(0,0,0,0.5); line-height: 1.5em; color: #fff; position: absolute; top: 0; }
+#fourth article {  margin-left: 10%; text-shadow: 0 -1px 0 rgba(0,0,0,0.5); line-height: 1.5em; color: #fff; position: absolute; top: 0; }
 #fourth article p { width: 300px; margin: 50px 0; }
-#fourth video { position: fixed; left: 50%; box-shadow: 0 0 25px rgba(0,0,0,0.7); z-index: 1;} */
+/* #fourth video { position: fixed; left: 50%; box-shadow: 0 0 25px rgba(0,0,0,0.7); z-index: 1;} */
 
 /* The End */
 #theend .byebye { background: url(../images/theend.png) 40% 100px no-repeat fixed; height: 1000px; padding: 0; margin: 0; width: 100%; max-width: 1920px; position: relative; margin: 0 auto; }
